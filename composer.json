@@ -18,7 +18,7 @@
     "ext-mbstring": "*"
   },
   "replace": {
-    "comely-io/data-types": "self.version"
+    "comely-io/data-types": "*"
   },
   "autoload": {
     "psr-4": {
