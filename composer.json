@@ -17,9 +17,6 @@
     "ext-bcmath": "*",
     "ext-mbstring": "*"
   },
-  "replace": {
-    "comely-io/data-types": "*"
-  },
   "autoload": {
     "psr-4": {
       "Comely\\DataTypes\\": [
