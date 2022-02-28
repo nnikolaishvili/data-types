@@ -11,5 +11,5 @@ BigNumber objects via BcMath and several helper functions that are essential for
 
 ## Installation
 
-`composer require comely-io/data-types`
+`composer require nnikolaishvili/data-types`
 
